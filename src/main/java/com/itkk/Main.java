@@ -8,5 +8,6 @@ package com.itkk;
 public class Main {
     public static void main(String[] args) {
         System.out.println("kk");
+        System.out.println("kk  v2");
     }
 }
